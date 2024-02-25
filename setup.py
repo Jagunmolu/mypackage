@@ -8,7 +8,7 @@ setup(
     description="EDSA example python package",
     long_description=open("README.md").read(),
     install_requires=["numpy", "pandas"],
-    url="https://github.com/Jagunmolu/mypackage",
+    url="https://github.com/Jagunmolu/mypackage.git",
     author="Jagunmolu",
     author_email="kolawolejonathan@gmail.com"
 )
